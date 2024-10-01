@@ -1,0 +1,118 @@
+/* реалізація за допомогою float */
+body {
+    text-align: center;
+}
+.container {
+    margin: 0 auto;
+    border: 1px black solid;
+    width: 50%;
+    height: 80vh;
+    margin-bottom: 5%;
+}
+
+.block-small {
+    height: 70%;
+    width: 100%;
+}
+
+.bottom {
+    background-color: rgb(208, 73, 163);
+    height: 30%;
+}
+
+.block-small-one {
+    float: left;
+    background-color: rgb(123, 223, 103);
+    width: 20%;
+    height: 100%;
+}
+
+.block-small-two {
+    background-color: rgb(235, 240, 145);
+    width: 100%;
+    height: 100%;
+}
+
+.bottom-first {
+    float: left;
+    width: 70%;
+    height: 100%;
+    background-color: rgb(218, 170, 231);
+}
+
+.header {
+    height: 20%;
+    background-color: rgb(126, 193, 231);
+    width: 100%;
+}
+
+
+
+
+/* реалізація за допомогою flex */
+body{
+    
+    height: 100%;
+    text-align: center;
+}
+
+.main-container {
+    margin: 0 auto;
+    border: 1px solid black;
+    width: 50%;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.top-section, .bottom-section {
+    display: flex;
+    width: 100%;
+}
+
+.top-section {
+    height: 70%;
+}
+
+.bottom-section {
+    height: 30%;
+}
+
+.image-block, .left-content, .right-content, .title, .menu-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-block {
+    background-color: rgb(123, 223, 103);
+    width: 20%;
+}
+
+.text-block {
+    background-color: rgb(235, 240, 145);
+    width: 80%;
+    flex-direction: column;
+}
+
+.title {
+    height: 20%;
+    background-color: rgb(126, 193, 231);
+    width: 100%;
+}
+
+.menu-item {
+    height: 80%;
+    background-color: rgb(255, 182, 193);
+    width: 100%;
+}
+
+.left-content {
+    width: 70%;
+    background-color: rgb(218, 170, 231);
+}
+
+.right-content {
+    width: 30%;
+    background-color: rgb(173, 216, 230);
+}
