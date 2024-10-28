@@ -3,11 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Барна Юлія Іванівна,ІС-21,ЛР1,Варіант-</title>
+    <title>Барна Юлія Іванівна,ІС-21,ЛР1,Варіант-10</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h2>Барна Юлія Іванівна</h2>
-    <p>Місце та дата народження: м.Ужгород, 01.06.2005</p>
+    <h2 id="header">Барна Юлія Іванівна</h2>
+    <p id="birthdate">Місце та дата народження: м.Ужгород, 01.06.2005</p>
     <p>Освіта: Ужгородський економічний ліцей.</p>
     <p>КПІ ім.І.Сікорського</p>
     <p>Хобі:</p>
@@ -33,9 +34,18 @@
         Згідно з результатами міжнародного дослідження агентства Mercer, опублікованого в березні 
         2019 року, у якому порівнювалася якість життя в 231 місті, Відень посів перше місце у світі за якістю життя. 
         Журнал The Economist у 2019 році також поставив Відень на перше місце у світі за комфортністю проживання.</p> 
+      <!-- Контейнер для зображення -->
+      <div id="image-container">
         <a href="https://tobm.org.ua/misto-vysokogo-mystecztva/">
-            <img src="img/Vienna-собор-Святого-Стефана-1024x667.jpg" alt="Wien" style="width:600px; height:400px">
+          <img id="vienna-image" src="img/Vienna-собор-Святого-Стефана-1024x667.jpg" alt="Wien">
         </a>
+      </div>
         
-        
+        <div id="controls">
+          <button onclick="addImage()">Додати</button>
+          <button onclick="increaseImage()">Збільшити</button>
+          <button onclick="decreaseImage()">Зменшити</button>
+          <button onclick="removeImage()">Видалити</button>
+      </div>
+      <script src="lab1.js"></script>
 </html>

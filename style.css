@@ -1,0 +1,29 @@
+img {
+    width:600px;
+    height:400px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+
+#controls button {
+    background-color: #4a4e69;
+    color: white;
+    padding: 10px 15px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+#controls button:hover {
+    background-color: #22223b;
+}
