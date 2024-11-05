@@ -1,0 +1,347 @@
+{
+    "results": [
+      {
+        "gender": "male",
+        "name": {
+          "title": "Mr",
+          "first": "Väinö",
+          "last": "Perala"
+        },
+        "location": {
+          "street": {
+            "number": 5863,
+            "name": "Mechelininkatu"
+          },
+          "city": "Seinäjoki",
+          "state": "Åland",
+          "country": "Finland",
+          "postcode": 60629,
+          "coordinates": {
+            "latitude": "-25.0646",
+            "longitude": "-0.2210"
+          },
+          "timezone": {
+            "offset": "+9:00",
+            "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+          }
+        },
+        "email": "vaino.perala@example.com",
+        "login": {
+          "uuid": "fbd96cf9-40b3-4c2b-8f3f-561f6f6e3282",
+          "username": "brownwolf384",
+          "password": "villa",
+          "salt": "sbRoYiUF",
+          "md5": "2f91302a80568d97c8fc21e5e625edda",
+          "sha1": "1b3d7f24318d65af9c00a8cbde1622fa0becabce",
+          "sha256": "bc9499f1dde4b29c43f55c7c393dbd9a7ec4d07f434b2619ded2b533ae638074"
+        },
+        "dob": {
+          "date": "1969-04-04T17:40:29.415Z",
+          "age": 55
+        },
+        "registered": {
+          "date": "2004-07-15T19:49:13.563Z",
+          "age": 20
+        },
+        "phone": "05-939-215",
+        "cell": "041-227-84-11",
+        "id": {
+          "name": "HETU",
+          "value": "NaNNA483undefined"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/95.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/95.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/95.jpg"
+        },
+        "nat": "FI"
+      },
+      {
+        "gender": "female",
+        "name": {
+          "title": "Miss",
+          "first": "Afonsina",
+          "last": "Campos"
+        },
+        "location": {
+          "street": {
+            "number": 6436,
+            "name": "Rua Boa Vista"
+          },
+          "city": "Araçatuba",
+          "state": "Paraná",
+          "country": "Brazil",
+          "postcode": 47397,
+          "coordinates": {
+            "latitude": "-77.3588",
+            "longitude": "93.4853"
+          },
+          "timezone": {
+            "offset": "+6:00",
+            "description": "Almaty, Dhaka, Colombo"
+          }
+        },
+        "email": "afonsina.campos@example.com",
+        "login": {
+          "uuid": "012ca218-6c82-4172-9dc3-72417ccbdabb",
+          "username": "bluekoala253",
+          "password": "sheridan",
+          "salt": "YHihBi23",
+          "md5": "cf021636cb9c23b0902917d4bacf0665",
+          "sha1": "7760cf50dfaf39fb5c204031b8abc8968f5f032c",
+          "sha256": "93f06e12463e95f5c19d1be1d8af2c4ae44ae15331a4a4958b92813d324cfd94"
+        },
+        "dob": {
+          "date": "1960-06-20T12:38:25.902Z",
+          "age": 64
+        },
+        "registered": {
+          "date": "2003-10-30T06:30:50.460Z",
+          "age": 21
+        },
+        "phone": "(88) 7867-6629",
+        "cell": "(57) 4965-6214",
+        "id": {
+          "name": "CPF",
+          "value": "733.881.578-22"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/46.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/46.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/46.jpg"
+        },
+        "nat": "BR"
+      },
+      {
+        "gender": "female",
+        "name": {
+          "title": "Ms",
+          "first": "Yasmina",
+          "last": "López"
+        },
+        "location": {
+          "street": {
+            "number": 5093,
+            "name": "Calle del Clavel"
+          },
+          "city": "Málaga",
+          "state": "Andalucía",
+          "country": "Spain",
+          "postcode": 29591,
+          "coordinates": {
+            "latitude": "36.7213",
+            "longitude": "-4.4214"
+          },
+          "timezone": {
+            "offset": "+1:00",
+            "description": "Brussels, Copenhagen, Madrid, Paris"
+          }
+        },
+        "email": "yasmina.lopez@example.com",
+        "login": {
+          "uuid": "be033576-645f-4f95-b30f-e0c1efbb9173",
+          "username": "bluekoala756",
+          "password": "rojas",
+          "salt": "yRBu1XnL",
+          "md5": "adf36d6e6cabe505231203b25e6c0e63",
+          "sha1": "e43cb2e3f93b178bc5b251f2046d32f41f8c3cc8",
+          "sha256": "7e86ae9d74bb7b4b243a3d79e8b5af40a8d2b0ef6ef2a5e2ebfbc09ff51e7f0a"
+        },
+        "dob": {
+          "date": "1992-11-11T12:14:00.000Z",
+          "age": 31
+        },
+        "registered": {
+          "date": "2017-05-19T07:01:56.000Z",
+          "age": 7
+        },
+        "phone": "952-612-415",
+        "cell": "688-655-330",
+        "id": {
+          "name": "DNI",
+          "value": "20419443Z"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/57.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/57.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/57.jpg"
+        },
+        "nat": "ES"
+      },
+      {
+        "gender": "male",
+        "name": {
+          "title": "Mr",
+          "first": "Liam",
+          "last": "Smith"
+        },
+        "location": {
+          "street": {
+            "number": 1234,
+            "name": "Main St"
+          },
+          "city": "Springfield",
+          "state": "Illinois",
+          "country": "USA",
+          "postcode": 62704,
+          "coordinates": {
+            "latitude": "39.7817",
+            "longitude": "-89.6501"
+          },
+          "timezone": {
+            "offset": "-6:00",
+            "description": "Central Standard Time"
+          }
+        },
+        "email": "liam.smith@example.com",
+        "login": {
+          "uuid": "2d16b405-97b8-4c57-9ee3-6a726b4c92f4",
+          "username": "redlion843",
+          "password": "apple",
+          "salt": "YHihBi23",
+          "md5": "fb72cd6724aa8e7e503cc7e1b08c9e0c",
+          "sha1": "9a77c797d3e6ffb72cd675f4e0e847bc7db50b6b",
+          "sha256": "5e236b30e68eec557fd39c5a08c4c0f6ed7c394b5c8128c05f8b36c198baf38c"
+        },
+        "dob": {
+          "date": "1985-02-25T12:15:43.000Z",
+          "age": 39
+        },
+        "registered": {
+          "date": "2019-03-22T07:01:56.000Z",
+          "age": 5
+        },
+        "phone": "(217) 555-0168",
+        "cell": "(217) 555-0169",
+        "id": {
+          "name": "SSN",
+          "value": "123-45-6789"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/1.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/1.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/1.jpg"
+        },
+        "nat": "US"
+      },
+      {
+        "gender": "female",
+        "name": {
+          "title": "Ms",
+          "first": "Sophia",
+          "last": "Garcia"
+        },
+        "location": {
+          "street": {
+            "number": 4321,
+            "name": "Second St"
+          },
+          "city": "Los Angeles",
+          "state": "California",
+          "country": "USA",
+          "postcode": 90001,
+          "coordinates": {
+            "latitude": "34.0522",
+            "longitude": "-118.2437"
+          },
+          "timezone": {
+            "offset": "-8:00",
+            "description": "Pacific Standard Time"
+          }
+        },
+        "email": "sophia.garcia@example.com",
+        "login": {
+          "uuid": "8f408ee5-57f6-4d37-b2d4-4d2b1e81ac0c",
+          "username": "bigmeadow738",
+          "password": "cherry",
+          "salt": "JHn3be67",
+          "md5": "f91701bba62b9a9c9e5ff9f23bc0f272",
+          "sha1": "9f65fcb7d1c12d8a1204c27c1fbd6ac2bcb62c4d",
+          "sha256": "bb12436b8c5033bfe055a51d9e93c019152788a0a121146d42a7eb39ae48b15c"
+        },
+        "dob": {
+          "date": "1990-09-15T14:20:43.000Z",
+          "age": 34
+        },
+        "registered": {
+          "date": "2018-06-18T08:25:15.000Z",
+          "age": 6
+        },
+        "phone": "(213) 555-0168",
+        "cell": "(213) 555-0169",
+        "id": {
+          "name": "SSN",
+          "value": "987-65-4320"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/2.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/2.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/2.jpg"
+        },
+        "nat": "US"
+      },
+      {
+        "gender": "male",
+        "name": {
+          "title": "Mr",
+          "first": "Omar",
+          "last": "Ahmed"
+        },
+        "location": {
+          "street": {
+            "number": 789,
+            "name": "Al-Masjid Street"
+          },
+          "city": "Cairo",
+          "state": "Cairo",
+          "country": "Egypt",
+          "postcode": 11753,
+          "coordinates": {
+            "latitude": "30.0444",
+            "longitude": "31.2357"
+          },
+          "timezone": {
+            "offset": "+2:00",
+            "description": "Cairo, Athens, Bucharest"
+          }
+        },
+        "email": "omar.ahmed@example.com",
+        "login": {
+          "uuid": "11aa3e4f-1324-4fcb-b04a-8e675b3afbc3",
+          "username": "lazybutterfly317",
+          "password": "watermelon",
+          "salt": "Zz6z9GR3",
+          "md5": "b4e999ce3e06f9a1c77f36bece8f20c3",
+          "sha1": "c62f1b3edc67dc6f3031b62198a44cf0f1fbb9d7",
+          "sha256": "b529b43a58ae2619dbd631fa6bc01eb6b51b98e4c3a052fa44cbcf04b663fdb8"
+        },
+        "dob": {
+          "date": "1988-12-01T15:45:17.000Z",
+          "age": 35
+        },
+        "registered": {
+          "date": "2020-01-05T09:34:22.000Z",
+          "age": 4
+        },
+        "phone": "02-2278-6556",
+        "cell": "010-1234-5678",
+        "id": {
+          "name": "ID",
+          "value": "123456789"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/3.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/3.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
+        },
+        "nat": "EG"
+      }
+    ],
+    "info": {
+      "seed": "b4f4ddabc4f67764",
+      "results": 7,
+      "page": 1,
+      "version": "1.4"
+    }
+  }
+  
